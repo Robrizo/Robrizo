@@ -19,6 +19,7 @@ On the back end, I'm actively learning how to build robust APIs and manage serve
 
 ## 📊 Github Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robrizo&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robrizo&layout=compact&theme=radical)
 
 ---
