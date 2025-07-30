@@ -26,7 +26,7 @@ On the back end, I'm actively learning how to build robust APIs and manage serve
 
 ## 📫 Connect with me
 - 🌍 [My Portifolio](https://robert-chunga.vercel.app/)
-- 🔗 [Facebook]()
+- 🔗 [Facebook](https://www.facebook.com/share/16kT8REJa8/)
 - 🐦 [Twitter](https://x.com/Real_Rjc?t=lL3Jfg7QRu1VJGJpbVWnVg&s=09)
 - 📧 robertchungah@gmail.com
 
